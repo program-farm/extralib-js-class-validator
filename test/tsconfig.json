@@ -1,0 +1,24 @@
+{
+  "compilerOptions": {
+    "module": "CommonJS",
+    "target": "ES6",
+    "rootDir": "../",
+    "sourceMap": true,
+    "declaration": false,
+    "noImplicitAny": false,
+    "noUnusedLocals": false,
+    "removeComments": true,
+    "noLib": false,
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "useUnknownInCatchVariables": false,
+    "allowJs": true,
+    "lib": [
+      "ES7"
+    ]
+  },
+  "include": [
+    "src/**/*",
+    "**/*.spec.ts"
+  ]
+}
