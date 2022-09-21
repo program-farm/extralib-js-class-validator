@@ -1,16 +1,17 @@
 {
   "name": "@program-farm/extralib-js-class-validator",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Extra library on class-validator.js",
   "keywords": [
     "ExtraLibJS",
     "class-validator",
     "program-farm"
   ],
+  "private": false,
   "files": ["lib/**/*"],
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
-  "repository": "",
+  "repository": "https://github.com/program-farm/extralib-js-class-validator",
   "author": "TerryJoo",
   "license": "ISC",
   "scripts": {
