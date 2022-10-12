@@ -1,6 +1,6 @@
 {
   "name": "@program-farm/extralib-js-class-validator",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Extra library on class-validator.js",
   "keywords": [
     "ExtraLibJS",
